@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 linuxdistropicker.py
+python3 penguinstall.py
