@@ -2,7 +2,7 @@
 
 A simple Python program using Tkinter to help users switching to Linux to pick a distro more easily.
 
-This was a project created in 5 days during Hüppelaud 2024 in Viljandi, Estonia.
+This was a project created in 5 days during Hüppelaud 2024 in Viljandi, Estonia. The original code is located on the *legacy* branch and will not be updated.
 
 ### Dependencies
 - tkinter
